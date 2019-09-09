@@ -26,7 +26,7 @@
  2. auto merge (without conflict)
  3. merge with conflict
 
- ## Conflict 해결방법
- ### conflict 발생조건
+ ## Conflict 뭘까
+ ### conflict 정의
  - 동일 파일
  - 동일 라인의 내용이 다를 경우
