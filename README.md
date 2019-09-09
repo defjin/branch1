@@ -20,3 +20,8 @@
  - `git checkout -b [브랜치 이름]` : 브랜치 생성 & 이동 
  - `git switch -c [브랜치 이름]` : 브랜치 생성 & 이동
  - `git merge [대상브랜치 이름]` : 현재 브랜치에서 대상브랜치를 머지한다.
+
+ ## Git Merge 시나리오
+ 1. fast-forward merge
+ 2. auto merge (without conflict)
+ 3. merge with conflict
