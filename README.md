@@ -17,3 +17,6 @@
  - `git checkout [브랜치 이름]` : 브랜치 바꿈
  - `git switch [브랜치 이름]` : 브랜치 바꿈
  - `git branch -d [브랜치 이름]` : 브랜치 삭제
+ - `git checkout -b [브랜치 이름]` : 브랜치 생성 & 이동 
+ - `git switch -c [브랜치 이름]` : 브랜치 생성 & 이동
+ - `git merge [대상브랜치 이름]` : 현재 브랜치에서 대상브랜치를 머지한다.
